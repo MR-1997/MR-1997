@@ -1,7 +1,7 @@
 # 💫 About Me:
 Junior DevOps Engineer working on all kinds of stuff all across the DevOps world. Last projects include the setup of a new monitoring setup and a deep dive in Infrastructure as Code principles.
 <br>Currently starting out with Kubernetes.
-<br>I additionally have some background in ML and embedded, so I try to keep myself up to date
+<br>I additionally have some background in ML and embedded, so I try to keep myself up to date there too from time to time.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-rubin) 
